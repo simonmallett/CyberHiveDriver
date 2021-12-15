@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CyberHiveDriver.vcxproj.user
+/CyberHiveDriver.vcxproj.filters
+/.vs/slnx.sqlite
+/Debug
+/.vs/CyberHiveDriver/v16
+/.vs
+/x64/Debug
